@@ -1,0 +1,46 @@
+git clone https://github.com/Thefallenashes/a.git
+
+
+//abrir un fichero en git//
+
+cd nombre fichero/
+
+pwd--> master
+
+
+
+//Como subir un proyecto local a github//
+
+git init
+
+git add .
+
+git commit 
+
+git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
+
+git push
+
+//añadir nombre y correo//
+
+ git config --global user.name nombre
+
+git config --global user.email correo
+
+//Crear carpetas desde git//
+
+mkdir pathcarpeta
+
+
+//subir archivos con git a github//
+
+git push enlacegithub
+
+//actualizar repositorios locales//
+
+git push enlace
+
+
+//asegurarse de que los archivos de github y git sean los mismos//
+
+git remote
