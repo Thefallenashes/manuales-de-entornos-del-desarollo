@@ -1,0 +1,22 @@
+//En la parte superior de la caja irá el nombre de la clase//
+
+public class nombredeejemplo {}
+
+
+
+//Los atributos de las clases iran en el medio de las cajas en las que irá todo el contenido.//
+
+
+public class .... {
+
+public int ... ;
+public float ... ;
+}
+
+
+
+//En la parte inferior iran los metodos y comandos//
+
+public int getEjemplo (){
+return Ejemplo;
+}
