@@ -38,7 +38,7 @@ git push enlacegithub
 
 //actualizar repositorios locales//
 
-git push enlace
+git pull enlace
 
 
 //asegurarse de que los archivos de github y git sean los mismos//
