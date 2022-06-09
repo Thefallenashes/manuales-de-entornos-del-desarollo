@@ -1,25 +1,5 @@
-git clone https://github.com/Thefallenashes/a.git
+git pwd--> master
 
-
-//abrir un fichero en git//
-
-cd nombre fichero/
-
-pwd--> master
-
-
-
-//Como subir un proyecto local a github//
-
-git init
-
-git add .
-
-git commit 
-
-git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
-
-git push
 
 //añadir nombre y correo//
 
@@ -27,9 +7,23 @@ git push
 
 git config --global user.email correo
 
+
 //Crear carpetas desde git//
 
 mkdir pathcarpeta
+
+
+//abrir un fichero en git//
+
+git cd nombrefichero
+
+
+
+
+//Subir archivos de github a local//
+
+git clone https://github.com/Thefallenashes/a.git
+
 
 
 //subir archivos con git a github//
